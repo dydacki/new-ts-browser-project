@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "scripts": {
-    "start-server": "npx live-server"
+    "server": "npx live-server"
   },
   "author": "wojciech dydacki",
   "license": "ISC",
